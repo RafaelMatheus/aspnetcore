@@ -1,0 +1,7 @@
+/home/rafaelcastro/Documentos/dev-io/nerdstore/src/services/identidade/obj/Debug/netcoreapp3.1/identidade.csprojAssemblyReference.cache
+/home/rafaelcastro/Documentos/dev-io/nerdstore/src/services/identidade/obj/Debug/netcoreapp3.1/staticwebassets/identidade.StaticWebAssets.Manifest.cache
+/home/rafaelcastro/Documentos/dev-io/nerdstore/src/services/identidade/obj/Debug/netcoreapp3.1/staticwebassets/identidade.StaticWebAssets.xml
+/home/rafaelcastro/Documentos/dev-io/nerdstore/src/services/identidade/obj/Debug/netcoreapp3.1/identidade.MvcApplicationPartsAssemblyInfo.cs
+/home/rafaelcastro/Documentos/dev-io/nerdstore/src/services/identidade/obj/Debug/netcoreapp3.1/identidade.MvcApplicationPartsAssemblyInfo.cache
+/home/rafaelcastro/Documentos/dev-io/nerdstore/src/services/identidade/obj/Debug/netcoreapp3.1/identidade.AssemblyInfoInputs.cache
+/home/rafaelcastro/Documentos/dev-io/nerdstore/src/services/identidade/obj/Debug/netcoreapp3.1/identidade.AssemblyInfo.cs
